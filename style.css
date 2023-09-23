@@ -12,9 +12,11 @@
 body{
     font-family: var(--font_Standart);
     background-color: var(--color02);
-    background-image: url(images/pexels-enric-cruz-lópez-6039237.jpg);
-    background-size: 50vw;
-    background-position: center bottom;
+    background-image: url(images/img-background.jpg);
+    background-size: contain;
+    background-position: left bottom;
+    background-repeat: repeat;
+    background-attachment: fixed;
     margin: 0px;
 }
 
