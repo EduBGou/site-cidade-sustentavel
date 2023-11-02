@@ -87,7 +87,7 @@ div{
     width: 45vw;
     height: 60vh;
     background-color: var(--color01);
-    background-image: url(images/img-public-transport.jpg);
+    
     background-position: center bottom;
     background-size: cover;
     border-color: var(--color03);
@@ -97,6 +97,11 @@ div{
     border-width: 3px;
     margin: auto;
 }
+
+div#transport{
+    background-image: url(images/img-public-transport.jpg);
+}
+div#
 
 footer{
     color: white;
